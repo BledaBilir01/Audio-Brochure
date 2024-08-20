@@ -1,0 +1,2 @@
+Sesli Prospektüse Hoşgeldiniz.
+Uygulamayı çalıştırmak için Python 3.10.11 sürümü gereklidir."Projectx" klasöründeki "uygulama" isimli klasörden "Projectx"isimli dosyayı açmanız yeterlidir.Uygulama çalışırken karşılama sesi bittikten sonra raporda gösterdiğim ilaçları 3 saniye ekrana tutup "tarama tamam" sesini duyduktan sonra ekranda tutmayı kesebilirsiniz.Uygulamayı sonlandırmak için klavyeden "esc" tuşuna basmanız yeterlidir.(uygulamada yalnızca 5 ilaç tanımlıdır: bekunis,arveles,diabacore,crebros,flessi)
